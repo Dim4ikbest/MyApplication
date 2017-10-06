@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\7e4720478042305bd942a8fe479e8e2564d23eb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b72adc3604854a2b8a5efa05cbbf4ea543b0e9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_6964a5ea8298c4e5d0cc8298ed5a7f3aa31314e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\cc8425cf574130a9deb6a785a5792b6bcc733248\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0a771299b7d4ec78832da625c9d36e4c53b5e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\bf74fc1422187a6027203a97900d011e214defbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_929414c4090b2934e2035e44ee7916331ba5b61f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\d931b629b0640d38ac86c93feee0df9ef186eebf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec5b829a82e45d94487cecd09e66baa5349cefb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_68994dc71f3db8cf0686299f241e2114c8957c07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_6d12b3f7f2293bb56ac634599491fd44d42a3ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\6a6b6ec82d9ba1831f6609bed5d98447c3f61212\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc602ea93f7250add97f88a0b12c9a304ee857fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\13d12582ee9bbf69ce98fb89c3bfe0e2558be4a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b613d6c032e19c65031920880bd6ca91125b92a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\25b31f3bfd14dbe3c513414ed40ecf86bc5ec0aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcfbb8d32b75f7c8a32ee41b4b4d6962bc1b683e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\323d420648e9509e763892c958eed36763d332d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f236aa7559566fd0f8b94f406f2f9f74262e92fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_41ebad7c19943ef71a4433d1f5301896493b7c8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_97e69692311bc3fc756f92732233cebe57e68330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\2cb0cf601494c2e831afb00ecd850215f00f7763\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8ef89db91fba797ebbb21315fc931244e73f363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\52ec08d2f2e652370868b5bbbf1313d5a540e6de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad7ea3211b955b72b65be94e50607c85ed88e06e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d735841ff4215889cd019e2335f47cb7b26ae99">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7f1486bfaa8347ba56a31cf1ce9dbe7ba493c42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\.android\build-cache\4031559388e838e908f36a81d0b5ec233d237585\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b065235b232d786534bc30c467b955d6db0ff32\classes.dex" />
+    </item>
+
+</items>
